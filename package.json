@@ -17,6 +17,7 @@
     "prebuild": "rimraf dist",
     "build": "cross-env NODE_ENV=production webpack --config ./webpack.config.js",
     "dev": "cross-env NODE_ENV=development ts-node-dev src/index.ts",
+    "dev:webpack": "cross-env NODE_ENV=development webpack --config ./webpack.config.js",
     "rm": "rimraf node_modules",
     "watch": "tsc -w",
     "start": "node ./dist/index",
