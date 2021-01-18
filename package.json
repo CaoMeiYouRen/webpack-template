@@ -44,7 +44,7 @@
     "lint-staged": "^10.5.3",
     "lodash": "^4.17.20",
     "rimraf": "^3.0.2",
-    "semantic-release": "^17.3.2",
+    "semantic-release": "^17.3.3",
     "ts-loader": "^8.0.14",
     "ts-node": "^9.1.1",
     "ts-node-dev": "^1.1.1",
